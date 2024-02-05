@@ -1,0 +1,14 @@
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\bin\Debug\net8.0\FlightSystem.exe
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\bin\Debug\net8.0\FlightSystem.deps.json
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\bin\Debug\net8.0\FlightSystem.runtimeconfig.json
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\bin\Debug\net8.0\FlightSystem.dll
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\bin\Debug\net8.0\FlightSystem.pdb
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.AssemblyInfoInputs.cache
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.AssemblyInfo.cs
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.csproj.CoreCompileInputs.cache
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.dll
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\refint\FlightSystem.dll
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.pdb
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\FlightSystem.genruntimeconfig.cache
+C:\Users\Evelina\OneDrive\Рабочий стол\університет\2 курс\ооп\FlightSystem\obj\Debug\net8.0\ref\FlightSystem.dll
